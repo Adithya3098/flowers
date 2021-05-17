@@ -1,0 +1,36 @@
+body {
+    background-color: azure;
+    text-align: center;
+}
+
+img {
+    width: 470px;
+    height: 400px;
+}
+
+b {
+    font-size: 17px;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.class1 {
+    font-size: 10px;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+}
+td{
+    border: 2px solid black;
+    text-align:center;
+    width:50%; 
+}
+hr{
+    height:10px;
+    background-color: black
+}
+ 
+
